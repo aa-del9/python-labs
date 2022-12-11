@@ -11,4 +11,3 @@ while True:
             break
         else: 
             print("No. Please try again. ")
-            hehe
